@@ -1,6 +1,6 @@
 # 🚦 Predicción de Accidentalidad en Medellín
 
-> Modelo de clasificación binaria para predecir la ocurrencia de accidentes de tránsito por barrio y hora en Medellín. Proyecto del Taller MCDA 2026-1 — Grupo 3.
+> Modelo de clasificación binaria para predecir la ocurrencia de accidentes de tránsito por barrio y hora en Medellín. Proyecto del Taller MCDA 2026-1.
 ---
 
 ## 📋 Descripción del Proyecto
