@@ -138,4 +138,4 @@ O ejecutar directamente en **Google Colab** subiendo el `.ipynb` y montando el a
 
 ## 📄 Licencia
 
-Este proyecto fue desarrollado con fines académicos en el marco del curso MCDA 2026-1 de la Universidad de Antioquia. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto fue desarrollado con fines académicos en el marco del curso MCDA 2026-1 de la Universidad EAFIT.
